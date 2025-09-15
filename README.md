@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fikri Haikal!
+# 👋 Hi there, I'm Muhammad Fikri Haikal!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Web+%26+Mobile+Developer;IoT+%26+Cloud+Enthusiast" alt="Typing SVG" />
