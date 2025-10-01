@@ -50,21 +50,9 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 <div align="center">
   
-![Pacman](./pacman.svg)
+![snake gif](https://github.com/fikrihaikal17/fikrihaikal17/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<p align="center">
-  <i>🐍 Eating GitHub Contributions...</i>
-</p>
 
 ---
 
