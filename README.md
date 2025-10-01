@@ -49,14 +49,22 @@ I am a Software Engineering student passionate about technology, web & mobile de
 ## 🎮 GitHub Contribution Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![Pacman](./pacman.svg)
+
 </div>
 
 <div align="center">
-  
-![Pacman](https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/main/pacman.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<p align="center">
+  <i>🐍 Eating GitHub Contributions...</i>
+</p>
 
 ---
 
