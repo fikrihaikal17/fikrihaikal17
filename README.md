@@ -46,6 +46,20 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 ---
 
+## 🎮 GitHub Contribution Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+![Pacman](https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/main/pacman.svg)
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 <div align="center">
