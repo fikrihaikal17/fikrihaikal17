@@ -50,7 +50,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 <div align="center">
   
-![snake gif](https://github.com/fikrihaikal17/fikrihaikal17/blob/output/github-contribution-grid-snake.svg)
+![Pacman](./pacman.svg)
 
 </div>
 
