@@ -68,24 +68,18 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!;Always+Learning+New+Things!" alt="Typing SVG" />
-</div>
-
----
-
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -96,5 +90,6 @@ I am a Software Engineering student passionate about technology, web & mobile de
 </div>
 
 <div align="center">
-  <h3>⭐ Star my repositories if you find them interesting!</h3>
+  <h3>Thanks for visiting! Have a great day! 😄</h3>
+  <p>⭐ Star my repositories if you find them interesting!</p>
 </div>
