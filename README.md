@@ -46,16 +46,6 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 ---
 
-## 🎮 GitHub Contribution Game
-
-<div align="center">
-  
-![Pacman](./pacman.svg)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
@@ -79,10 +69,32 @@ I am a Software Engineering student passionate about technology, web & mobile de
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!;Always+Learning+New+Things!" alt="Typing SVG" />
+</div>
+
+---
+
+<picture align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
 
 <div align="center">
-  <h3>Thanks for visiting! Have a great day! 😄</h3>
-  <p>⭐ Star my repositories if you find them interesting!</p>
+  <h3>⭐ Star my repositories if you find them interesting!</h3>
 </div>
