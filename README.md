@@ -46,12 +46,12 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Laravel
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=codeigniter" height="50" alt="codeigniter logo">    
-      <br>CodeIgniter
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
@@ -154,6 +154,26 @@ I am a Software Engineering student passionate about technology, web & mobile de
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo">
       <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/microsoft-word-2019--v2.png" width="48" height="48" alt="Word" />
+      <br>Word
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="48" height="48" alt="PowerPoint" />
+      <br>PowerPoint
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
     </td>
   </tr>
 </table>
