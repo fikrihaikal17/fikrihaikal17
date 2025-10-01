@@ -1,45 +1,19 @@
-# Hello there, I'm Muhammad Fikri Haikal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-
-I'm a passionate **Software Engineering Student** and **Web & Mobile Developer** with a deep interest in building **innovative**, **user-friendly**, and **efficient applications**. I thrive on creating seamless web experiences and mobile apps while exploring IoT and cloud technologies.
-
-![](https://komarev.com/ghpvc/?username=fikrihaikal17&label=Profile%20views&color=0e75b6&style=flat)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
-
-### � **What I'm Interested In**
-- Building **web applications** with modern frameworks.
-- Developing **cross-platform mobile apps** using Flutter.
-- Exploring **IoT solutions** and **cloud computing**.
-- Learning **AI, Machine Learning**, and **data visualization**.
-
----
-
-### 🛠️ **Currently Working On**
-- Enhancing web development skills with **Laravel** and **JavaScript**.
-- Building mobile applications with **Flutter** and **Dart**.
-- Creating innovative projects for my **Software Engineering** studies.
-
----
-
-### 📚 **What I'm Learning**
-- Advancing skills in **Backend Development** with Laravel.
-- Exploring **Frontend frameworks** and modern JavaScript.
-- Deepening knowledge in **Database Design** and optimization.
-- Learning about **IoT integration** and **cloud services**.
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
-<br><br>
-
----
+# 👋 Hi there, I'm Muhammad Fikri Haikal!
 
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;Building+Innovative+Solutions;Always+Learning+New+Tech" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Web+%26+Mobile+Developer;IoT+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fikrihaikal17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fikrihaikal17?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a Software Engineering student passionate about technology, web & mobile development, and IoT & Cloud computing. I enjoy learning about AI, machine learning, and data visualization while working on innovative projects and expanding my skills. I love turning complex problems into simple, elegant solutions.
 
 ---
 
@@ -47,56 +21,28 @@ I'm a passionate **Software Engineering Student** and **Web & Mobile Developer**
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fikrihaikal17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrihaikal17&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fikrihaikal17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrihaikal17&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -114,8 +60,10 @@ I'm a passionate **Software Engineering Student** and **Web & Mobile Developer**
 
 ---
 
+## 💭 Quote of the Day
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!;Software+Engineering+is+awesome!" alt="Typing SVG" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=800&height=150" alt="Random Dev Quote" />
 </div>
 
 ---
