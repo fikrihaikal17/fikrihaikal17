@@ -164,16 +164,16 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Excel
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="48" height="48" alt="PowerPoint" />
-      <br>PowerPoint
+        <img src="https://img.icons8.com/fluency/96/canva.png" width="48" height="48" alt="Canva" />
+      <br>Canva
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
       <br>Illustrator
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
+        <img src="https://skillicons.dev/icons?i=gimp" width="48" height="48" alt="GIMP" />
+      <br>GIMP
     </td>
   </tr>
 </table>
