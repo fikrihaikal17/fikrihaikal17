@@ -140,12 +140,12 @@ I am a Software Engineering student passionate about technology, web & mobile de
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-      <br>Kubernetes
+        <img src="https://img.icons8.com/color/96/udemy.png" width="48" height="48" alt="Udemy" />
+      <br>Udemy
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo">
-      <br>Jenkins
+        <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" height="50" alt="freeCodeCamp logo">
+      <br>freeCodeCamp
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo">
@@ -172,8 +172,8 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Illustrator
     </td>
     <td align="center" width="96">
-        <img src="https://www.dicoding.com/blog/wp-content/uploads/2020/12/Cover.png" width="48" height="48" alt="Dicoding" />
-      <br>Dicoding
+        <img src="https://img.icons8.com/color/96/google-logo.png" width="48" height="48" alt="Google" />
+      <br>Google
     </td>
   </tr>
 </table>
