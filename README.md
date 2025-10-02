@@ -172,8 +172,8 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Illustrator
     </td>
     <td align="center" width="96">
-        <img src="https://laragon.org/img/laragon-logo.png" width="48" height="48" alt="Laragon" />
-      <br>Laragon
+        <img src="https://www.dicoding.com/blog/wp-content/uploads/2020/12/Cover.png" width="48" height="48" alt="Dicoding" />
+      <br>Dicoding
     </td>
   </tr>
 </table>
