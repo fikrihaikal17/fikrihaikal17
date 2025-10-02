@@ -172,8 +172,8 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Illustrator
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
+        <img src="https://laragon.org/img/laragon-logo.png" width="48" height="48" alt="Laragon" />
+      <br>Laragon
     </td>
   </tr>
 </table>
