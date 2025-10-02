@@ -172,8 +172,8 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Illustrator
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gimp" width="48" height="48" alt="GIMP" />
-      <br>GIMP
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
     </td>
   </tr>
 </table>
