@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muhammad Fikri Haikal!
+# Hi there, I'm Muhammad Fikri Haikal!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Web+%26+Mobile+Developer;IoT+%26+Cloud+Enthusiast" alt="Typing SVG" />
@@ -11,13 +11,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a Software Engineering student passionate about technology, web & mobile development, and IoT & Cloud computing. I enjoy learning about AI, machine learning, and data visualization while working on innovative projects and expanding my skills. I love turning complex problems into simple, elegant solutions.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -180,7 +180,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fikrihaikal17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -189,7 +189,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -203,7 +203,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 ---
 
-## 💭 Quote of the Day
+## Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=800&height=150" alt="Random Dev Quote" />
@@ -234,5 +234,5 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 <div align="center">
   <h3>Thanks for visiting! Have a great day! 😄</h3>
-  <p>⭐ Star my repositories if you find them interesting!</p>
+  <p> Star my repositories if you find them interesting!</p>
 </div>
