@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
+  <defs>
+    
+      <linearGradient id="shimmer-grad-css" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#29B6F6" stop-opacity="0"/>
+        <stop offset="50%" stop-color="#FFF" stop-opacity="0.85"/>
+        <stop offset="100%" stop-color="#264DE4" stop-opacity="0"/>
+      </linearGradient>
+      <clipPath id="card-clip-css">
+        <rect width="256" height="256" rx="60"/>
+      </clipPath>
+    
+    <filter id="glow-css" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+
+  <!-- High-Visibility Laser Border Tracing -->
+  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#264DE4" stroke-width="8" stroke-dasharray="160 300">
+    <animate attributeName="stroke-dashoffset" from="0" to="920" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Ambient Glow Corner Highlights -->
+  <circle cx="28" cy="28" r="18" fill="#264DE4" opacity="0.15">
+    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="228" cy="228" r="18" fill="#264DE4" opacity="0.15">
+    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Technology Logo with Signature Animation -->
+  <g id="logo-css">
+    
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0; 0,14; 0,0" dur="2.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1 1; 1.06 1.06; 1 1" transform-origin="128 128" additive="sum" dur="2.8s" repeatCount="indefinite"/>
+    
+    </clipPath>
+    
+    <filter id="glow-css" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+
+  <!-- High-Visibility Laser Border Tracing -->
+  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#264DE4" stroke-width="8" stroke-dasharray="160 300">
+    <animate attributeName="stroke-dashoffset" from="0" to="920" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Ambient Glow Corner Highlights -->
+  <circle cx="28" cy="28" r="18" fill="#264DE4" opacity="0.15">
+    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="228" cy="228" r="18" fill="#264DE4" opacity="0.15">
+    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Technology Logo with Signature Animation -->
+  <g id="logo-css">
+    
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0; 0,14; 0,0" dur="2.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="1 1; 1.06 1.06; 1 1" transform-origin="128 128" additive="sum" dur="2.8s" repeatCount="indefinite"/>
+    
+    <path d="M53.7527 102.651L56.6155 134.593H128.096V102.651H53.7527Z" fill="#EBEBEB"/>
+<path d="M128.095 38H127.985H48L50.9036 69.9423H128.095V38Z" fill="#EBEBEB"/>
+<path d="M128.095 218.841V185.608L127.955 185.645L92.3813 176.04L90.1072 150.564H72.821H58.0425L62.5175 200.718L127.948 218.882L128.095 218.841Z" fill="#EBEBEB"/>
+<path d="M167.318 134.593L163.61 176.019L127.985 185.635V218.866L193.468 200.718L193.948 195.321L201.454 111.229L202.233 102.651L208 38H127.985V69.9423H172.994L170.088 102.651H127.985V134.593H167.318Z" fill="white"/>
+  </g>
+
+  <!-- Unique Particle / Element Effects -->
+  
+      <!-- CSS Blue shine sweep -->
+      <g clip-path="url(#card-clip-css)">
+        <polygon points="0,0 60,0 140,256 80,256" fill="url(#shimmer-grad-css)" opacity="0.5">
+          <animateTransform attributeName="transform" type="translate" values="-180,0; 320,0" dur="2.8s" repeatCount="indefinite"/>
+        </polygon>
+      </g>
+  </g>
+
+  <!-- Unique Particle / Element Effects -->
+  
+      <!-- CSS Blue shine sweep -->
+      <g clip-path="url(#card-clip-css)">
+        <polygon points="0,0 60,0 140,256 80,256" fill="url(#shimmer-grad-css)" opacity="0.5">
+          <animateTransform attributeName="transform" type="translate" values="-180,0; 320,0" dur="2.8s" repeatCount="indefinite"/>
+        </polygon>
+      </g>
+    
+</svg>

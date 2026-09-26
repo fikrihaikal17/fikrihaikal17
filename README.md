@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fikrihaikal17&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/fikrihaikal17?tab=followers"><img src="https://img.shields.io/github/followers/fikrihaikal17?label=Followers&logo=github&style=flat-square&color=36BCF7" alt="GitHub Followers" /></a>
-  <a href="https://github.com/fikrihaikal17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-32-36BCF7?style=flat-square&logo=github" alt="Repositories" /></a>
   <img src="https://img.shields.io/badge/Location-Indonesia-36BCF7?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
@@ -28,35 +27,35 @@ I am a Software Engineering student passionate about technology, web & mobile de
   <!-- Row 1: Languages & APIs -->
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
+      <img src="./assets/icons/php.svg" width="52" height="52" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <img src="./assets/icons/dart.svg" width="52" height="52" alt="Dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <img src="./assets/icons/html.svg" width="52" height="52" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <img src="./assets/icons/css.svg" width="52" height="52" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="Rest API" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="Rest API" />
       <br>Rest API
     </td>
   </tr>
@@ -64,31 +63,31 @@ I am a Software Engineering student passionate about technology, web & mobile de
   <!-- Row 2: Frameworks & Libraries -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel" />
+      <img src="./assets/icons/laravel.svg" width="52" height="52" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <img src="./assets/icons/flutter.svg" width="52" height="52" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <img src="./assets/icons/vue.svg" width="52" height="52" alt="Vue" />
       <br>Vue.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <img src="./assets/icons/nodejs.svg" width="52" height="52" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <img src="./assets/icons/tailwind.svg" width="52" height="52" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <img src="./assets/icons/bootstrap.svg" width="52" height="52" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -100,35 +99,35 @@ I am a Software Engineering student passionate about technology, web & mobile de
   <!-- Row 3: Databases & DevOps -->
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <img src="./assets/icons/postgresql.svg" width="52" height="52" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <img src="./assets/icons/firebase.svg" width="52" height="52" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <img src="./assets/icons/gcp.svg" width="52" height="52" alt="GCP" />
       <br>GCP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" />
+      <img src="./assets/icons/ubuntu.svg" width="52" height="52" alt="Ubuntu" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+      <img src="./assets/icons/npm.svg" width="52" height="52" alt="npm" />
       <br>npm
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <img src="./assets/icons/git.svg" width="52" height="52" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <img src="./assets/icons/github.svg" width="52" height="52" alt="GitHub" />
       <br>GitHub
     </td>
   </tr>
@@ -136,39 +135,40 @@ I am a Software Engineering student passionate about technology, web & mobile de
   <!-- Row 4: Tools, IDEs & Design -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <img src="./assets/icons/vscode.svg" width="52" height="52" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <img src="./assets/icons/androidstudio.svg" width="52" height="52" alt="Android Studio" />
       <br>Android Studio
     </td>
     <td align="center" width="96">
-      <img src="./assets/antigravity.png" width="48" height="48" alt="Antigravity" />
+      <img src="./assets/icons/antigravity.svg" width="52" height="52" alt="Antigravity" />
       <br>Antigravity
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <img src="./assets/icons/figma.svg" width="52" height="52" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <img src="./assets/icons/arduino.svg" width="52" height="52" alt="Arduino" />
       <br>Arduino
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <img src="./assets/icons/ai.svg" width="52" height="52" alt="Illustrator" />
       <br>Illustrator
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/96/canva.png" width="48" height="48" alt="Canva" />
+      <img src="./assets/icons/canva.svg" width="52" height="52" alt="Canva" />
       <br>Canva
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="./assets/icons/postman.svg" width="52" height="52" alt="Postman" />
       <br>Postman
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
