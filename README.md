@@ -9,8 +9,6 @@
   <a href="https://github.com/fikrihaikal17?tab=followers"><img src="https://img.shields.io/github/followers/fikrihaikal17?label=Followers&logo=github&style=flat-square&color=36BCF7" alt="GitHub Followers" /></a>
   <a href="https://github.com/fikrihaikal17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-32-36BCF7?style=flat-square&logo=github" alt="Repositories" /></a>
   <img src="https://img.shields.io/badge/Location-Indonesia-36BCF7?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-36BCF7?style=flat-square&logo=rocket&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-36BCF7?style=flat-square&logo=flutter&logoColor=white" alt="Focus" />
 </p>
 
 ---
@@ -129,7 +127,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
   </tr>
@@ -165,7 +163,8 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Canva
     </td>
     <td align="center" width="96">
-      <!-- Alignment spacer -->
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
 </table>
