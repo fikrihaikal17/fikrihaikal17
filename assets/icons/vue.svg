@@ -1,71 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
-  <defs>
-    
-    <filter id="glow-vue" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <!-- Background Card -->
+  <!-- Card Background -->
   <rect width="256" height="256" rx="60" fill="#242938"/>
 
-  <!-- High-Visibility Laser Border Tracing -->
-  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#41B883" stroke-width="8" stroke-dasharray="160 300">
+  <!-- High-Visibility Traveling Laser Border Tracing -->
+  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#4FC08D" stroke-width="8" stroke-dasharray="160 300">
     <animate attributeName="stroke-dashoffset" from="0" to="920" dur="3.5s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Ambient Glow Corner Highlights -->
-  <circle cx="28" cy="28" r="18" fill="#41B883" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.6s" repeatCount="indefinite"/>
+  <circle cx="28" cy="28" r="18" fill="#4FC08D" opacity="0.18">
+    <animate attributeName="opacity" values="0.18; 0.55; 0.18" dur="3.1s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="228" cy="228" r="18" fill="#41B883" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Technology Logo with Signature Animation -->
-  <g id="logo-vue">
-    
-      <animateTransform attributeName="transform" type="scale" values="1 1; 1.1 1.1; 0.94 0.94; 1 1" transform-origin="128 128" dur="2.6s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0; 0,10; 0,0" additive="sum" dur="2.6s" repeatCount="indefinite"/>
-    
-    <!-- High-Visibility Laser Border Tracing -->
-  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#41B883" stroke-width="8" stroke-dasharray="160 300">
-    <animate attributeName="stroke-dashoffset" from="0" to="920" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Ambient Glow Corner Highlights -->
-  <circle cx="28" cy="28" r="18" fill="#41B883" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="228" cy="228" r="18" fill="#41B883" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.6s" repeatCount="indefinite"/>
+  <circle cx="228" cy="228" r="18" fill="#4FC08D" opacity="0.18">
+    <animate attributeName="opacity" values="0.18; 0.55; 0.18" dur="3.1s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Technology Logo with Signature Animation -->
-  <g id="logo-vue">
+  <!-- Centered Logo with Uniform Levitation & Breathing Animation -->
+  <g transform="translate(0, 0)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0; 0,10; 0,0" dur="3.1s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1 1; 1.05 1.05; 1 1; 0.98 0.98; 1 1" transform-origin="128 128" additive="sum" dur="3.1s" repeatCount="indefinite"/>
     
-      <animateTransform attributeName="transform" type="scale" values="1 1; 1.1 1.1; 0.94 0.94; 1 1" transform-origin="128 128" dur="2.6s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0; 0,10; 0,0" additive="sum" dur="2.6s" repeatCount="indefinite"/>
-    
-    <path fill="#41B883" d="M182 50H218L128 205.25L38 50H73.55H106.85L128 86L148.7 50H182Z"/><path fill="#41B883" d="M38 50L128 205.25L218 50H182L128 143.15L73.55 50H38Z"/><path fill="#fff" d="M73.55 50L128 143.6L182 50H148.7L128 86L106.85 50H73.55Z"/>
+    <g transform="translate(53, 53) scale(1.1719)">
+      <path d="M0 8.934l49.854.158 14.167 24.47 14.432-24.47L128 8.935l-63.834 110.14zm126.98.637l-24.36.02-38.476 66.053L25.691 9.592.942 9.572l63.211 107.89zm-25.149-.008l-22.745.168-15.053 24.647L49.216 9.73l-22.794-.168 37.731 64.476zm-75.834-.17l23.002.009m-23.002-.01l23.002.01" fill="none"/><path d="M25.997 9.393l23.002.009L64.035 34.36 79.018 9.404 102 9.398 64.15 75.053z" fill="#35495e"/><path d="M.91 9.569l25.067-.172 38.15 65.659L101.98 9.401l25.11.026-62.966 108.06z" fill="#41b883"/>
+    </g>
   </g>
-
-  <!-- Unique Particle / Element Effects -->
-  
-      <!-- Vue radiating neon pulse rings -->
-      <circle cx="128" cy="180" r="10" fill="none" stroke="#41B883" stroke-width="3" opacity="0.8">
-        <animate attributeName="r" values="10; 70" dur="2.6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.8; 0" dur="2.6s" repeatCount="indefinite"/>
-      </circle>
-  </g>
-
-  <!-- Unique Particle / Element Effects -->
-  
-      <!-- Vue radiating neon pulse rings -->
-      <circle cx="128" cy="180" r="10" fill="none" stroke="#41B883" stroke-width="3" opacity="0.8">
-        <animate attributeName="r" values="10; 70" dur="2.6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.8; 0" dur="2.6s" repeatCount="indefinite"/>
-      </circle>
-    
 </svg>

@@ -27,15 +27,15 @@ I am a Software Engineering student passionate about technology, web & mobile de
   <!-- Row 1: Languages & APIs -->
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <img src="./assets/icons/js.svg" width="52" height="52" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <img src="./assets/icons/ts.svg" width="52" height="52" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <img src="./assets/icons/python.svg" width="52" height="52" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -55,7 +55,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="Rest API" />
+      <img src="./assets/icons/restapi.svg" width="52" height="52" alt="Rest API" />
       <br>Rest API
     </td>
   </tr>
@@ -71,7 +71,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <img src="./assets/icons/react.svg" width="52" height="52" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -91,7 +91,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+      <img src="./assets/icons/nginx.svg" width="52" height="52" alt="Nginx" />
       <br>Nginx
     </td>
   </tr>
@@ -99,7 +99,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
   <!-- Row 3: Databases & DevOps -->
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+      <img src="./assets/icons/mysql.svg" width="52" height="52" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">

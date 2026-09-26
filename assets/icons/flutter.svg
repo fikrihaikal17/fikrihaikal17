@@ -1,79 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
-  <defs>
-    
-    <filter id="glow-flutter" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <!-- Background Card -->
+  <!-- Card Background -->
   <rect width="256" height="256" rx="60" fill="#242938"/>
 
-  <!-- High-Visibility Laser Border Tracing -->
-  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#44D1FD" stroke-width="8" stroke-dasharray="160 300">
+  <!-- High-Visibility Traveling Laser Border Tracing -->
+  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#02569B" stroke-width="8" stroke-dasharray="160 300">
     <animate attributeName="stroke-dashoffset" from="0" to="920" dur="3.5s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Ambient Glow Corner Highlights -->
-  <circle cx="28" cy="28" r="18" fill="#44D1FD" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
+  <circle cx="28" cy="28" r="18" fill="#02569B" opacity="0.18">
+    <animate attributeName="opacity" values="0.18; 0.55; 0.18" dur="3.0s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="228" cy="228" r="18" fill="#44D1FD" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Technology Logo with Signature Animation -->
-  <g id="logo-flutter">
-    
-      <animateTransform attributeName="transform" type="translate" values="0,0; -12,-14; 0,0; 12,8; 0,0" dur="2.8s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="rotate" values="0 128 128; -5 128 128; 0 128 128; 5 128 128; 0 128 128" additive="sum" dur="2.8s" repeatCount="indefinite"/>
-    
-    <!-- High-Visibility Laser Border Tracing -->
-  <rect x="4" y="4" width="248" height="248" rx="56" fill="none" stroke="#44D1FD" stroke-width="8" stroke-dasharray="160 300">
-    <animate attributeName="stroke-dashoffset" from="0" to="920" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Ambient Glow Corner Highlights -->
-  <circle cx="28" cy="28" r="18" fill="#44D1FD" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="228" cy="228" r="18" fill="#44D1FD" opacity="0.15">
-    <animate attributeName="opacity" values="0.15; 0.45; 0.15" dur="2.8s" repeatCount="indefinite"/>
+  <circle cx="228" cy="228" r="18" fill="#02569B" opacity="0.18">
+    <animate attributeName="opacity" values="0.18; 0.55; 0.18" dur="3.0s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Technology Logo with Signature Animation -->
-  <g id="logo-flutter">
+  <!-- Centered Logo with Uniform Levitation & Breathing Animation -->
+  <g transform="translate(0, 0)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0; 0,10; 0,0" dur="3.0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="scale" values="1 1; 1.05 1.05; 1 1; 0.98 0.98; 1 1" transform-origin="128 128" additive="sum" dur="3.0s" repeatCount="indefinite"/>
     
-      <animateTransform attributeName="transform" type="translate" values="0,0; -12,-14; 0,0; 12,8; 0,0" dur="2.8s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="rotate" values="0 128 128; -5 128 128; 0 128 128; 5 128 128; 0 128 128" additive="sum" dur="2.8s" repeatCount="indefinite"/>
-    
-    <path fill="#44D1FD" d="M144.934 38.0615L200.709 38L107.134 131.526L82.7472 155.777L55 127.996L144.934 38.0615ZM144.415 121.569C145.139 120.613 146.471 121.085 147.482 120.962L200.661 120.975L152.194 169.395L124.303 141.675L144.415 121.569Z"/><path fill="#1FBCFD" d="M96.5013 169.442L124.303 141.675L152.194 169.395L152.31 169.518L124.31 197.258L96.5013 169.442V169.442Z"/><path fill="#08589C" d="M124.31 197.258L152.31 169.518L200.681 217.937C182.461 217.978 164.247 217.923 146.034 217.964C144.996 218.196 144.354 217.247 143.691 216.66L124.31 197.258V197.258Z"/>
+    <g transform="translate(53, 53) scale(1.1719)">
+      <g fill="#3FB6D3"><path d="M12.3 64.2L76.3 0h39.4L32.1 83.6zM76.3 128h39.4L81.6 93.9l34.1-34.8H76.3L42.2 93.5z"/></g><path fill="#27AACD" d="M81.6 93.9l-20-20-19.4 19.6 19.4 19.6z"/><path fill="#19599A" d="M115.7 128L81.6 93.9l-20 19.2L76.3 128z"/><linearGradient id="flutter-original-a" gradientUnits="userSpaceOnUse" x1="59.365" y1="116.36" x2="86.825" y2="99.399"><stop offset="0" stop-color="#1b4e94"/><stop offset=".63" stop-color="#1a5497"/><stop offset="1" stop-color="#195a9b"/></linearGradient><path fill="url(#flutter-original-a)" d="M61.6 113.1l30.8-8.4-10.8-10.8z"/>
+    </g>
   </g>
-
-  <!-- Unique Particle / Element Effects -->
-  
-      <!-- Flutter breeze sparks -->
-      <circle cx="80" cy="190" r="2.5" fill="#44D1FD" opacity="0.8">
-        <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="190;160" dur="1.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="180" cy="80" r="3" fill="#44D1FD" opacity="0.8">
-        <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.7s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="80;50" dur="2s" begin="0.7s" repeatCount="indefinite"/>
-      </circle>
-  </g>
-
-  <!-- Unique Particle / Element Effects -->
-  
-      <!-- Flutter breeze sparks -->
-      <circle cx="80" cy="190" r="2.5" fill="#44D1FD" opacity="0.8">
-        <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="190;160" dur="1.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="180" cy="80" r="3" fill="#44D1FD" opacity="0.8">
-        <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.7s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="80;50" dur="2s" begin="0.7s" repeatCount="indefinite"/>
-      </circle>
-    
 </svg>
