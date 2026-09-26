@@ -5,8 +5,12 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fikrihaikal17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fikrihaikal17?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=fikrihaikal17&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/fikrihaikal17?tab=followers"><img src="https://img.shields.io/github/followers/fikrihaikal17?label=Followers&logo=github&style=flat-square&color=36BCF7" alt="GitHub Followers" /></a>
+  <a href="https://github.com/fikrihaikal17?tab=repositories"><img src="https://img.shields.io/badge/Repositories-32-36BCF7?style=flat-square&logo=github" alt="Repositories" /></a>
+  <img src="https://img.shields.io/badge/Location-Indonesia-36BCF7?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-36BCF7?style=flat-square&logo=rocket&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-36BCF7?style=flat-square&logo=flutter&logoColor=white" alt="Focus" />
 </p>
 
 ---
@@ -22,22 +26,22 @@ I am a Software Engineering student passionate about technology, web & mobile de
 > Tools, languages, and frameworks that I work with:
 
 <table>
-  <!-- Row 1: Programming Languages -->
+  <!-- Row 1: Languages & APIs -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -53,15 +57,15 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-      <br>PowerShell
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="Rest API" />
+      <br>Rest API
     </td>
   </tr>
 
   <!-- Row 2: Frameworks & Libraries -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -69,7 +73,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -89,15 +93,15 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest API" />
-      <br>Rest API
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+      <br>Nginx
     </td>
   </tr>
 
-  <!-- Row 3: Databases, Cloud & Servers -->
+  <!-- Row 3: Databases & DevOps -->
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -109,15 +113,11 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
       <br>GCP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
@@ -128,14 +128,14 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-  </tr>
-
-  <!-- Row 4: Tools & Creative -->
-  <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="GitHub" />
       <br>GitHub
     </td>
+  </tr>
+
+  <!-- Row 4: Tools, IDEs & Design -->
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
@@ -145,12 +145,16 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Android Studio
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-      <br>Arduino
+      <img src="./assets/antigravity.png" width="48" height="48" alt="Antigravity" />
+      <br>Antigravity
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
@@ -161,7 +165,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
       <br>Canva
     </td>
     <td align="center" width="96">
-      <!-- Placeholder cell for alignment -->
+      <!-- Alignment spacer -->
     </td>
   </tr>
 </table>
@@ -190,8 +194,9 @@ I am a Software Engineering student passionate about technology, web & mobile de
       srcset="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/pacman-contribution-graph.svg"
     />
     <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/pacman-contribution-graph.svg"
+      alt="Pacman Contribution Graph"
+      src="https://raw.githubusercontent.com/fikrihaikal17/fikrihaikal17/output/pacman-contribution-graph-dark.svg"
+      width="100%"
     />
   </picture>
 </div>
@@ -215,13 +220,13 @@ I am a Software Engineering student passionate about technology, web & mobile de
 ## Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=800&height=150" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming" alt="Programming Tech Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e3a8a,70:0284c7,100:38bdf8&height=120&section=footer" width="100%" alt="Tech Cyber Wave" />
 </div>
 
 <div align="center">
