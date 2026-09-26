@@ -72,7 +72,7 @@ const iconsList = [
   { id: 'postgresql', name: 'PostgreSQL', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg', color: '#4169E1', dur: '3.3s' },
   { id: 'firebase', name: 'Firebase', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg', color: '#FFCA28', dur: '2.9s' },
   { id: 'gcp', name: 'GCP', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg', color: '#4285F4', dur: '3.2s' },
-  { id: 'ubuntu', name: 'Ubuntu', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg', color: '#E95420', dur: '3.4s' },
+  { id: 'ubuntu', name: 'Ubuntu', isCustom: 'ubuntu', color: '#E95420', dur: '3.4s' },
   { id: 'npm', name: 'npm', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg', color: '#CB3837', dur: '2.8s' },
   { id: 'git', name: 'Git', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg', color: '#F05032', dur: '3.1s' },
   { id: 'github', name: 'GitHub', url: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg', color: '#FFFFFF', dur: '3.3s' },
@@ -119,6 +119,16 @@ async function generateAll() {
     } else if (item.isCustom === 'antigravity') {
       innerContent = `
         <image href="data:image/png;base64,${antigravityBase64}" width="150" height="150" preserveAspectRatio="xMidYMid meet"/>
+      `;
+      offsetX = 53;
+      offsetY = 53;
+      scale = 1;
+    } else if (item.isCustom === 'ubuntu') {
+      innerContent = `
+        <circle cx="75" cy="75" r="68" fill="#E95420"/>
+        <g transform="translate(15, 15) scale(5.0)" fill="#FFFFFF">
+          <path d="M17.61.455a3.41 3.41 0 0 0-3.41 3.41 3.41 3.41 0 0 0 3.41 3.41 3.41 3.41 0 0 0 3.41-3.41 3.41 3.41 0 0 0-3.41-3.41zM12.92.8C8.923.777 5.137 2.941 3.148 6.451a4.5 4.5 0 0 1 .26-.007 4.92 4.92 0 0 1 2.585.737A8.316 8.316 0 0 1 12.688 3.6 4.944 4.944 0 0 1 13.723.834 11.008 11.008 0 0 0 12.92.8zm9.226 4.994a4.915 4.915 0 0 1-1.918 2.246 8.36 8.36 0 0 1-.273 8.303 4.89 4.89 0 0 1 1.632 2.54 11.156 11.156 0 0 0 .559-13.089zM3.41 7.932A3.41 3.41 0 0 0 0 11.342a3.41 3.41 0 0 0 3.41 3.409 3.41 3.41 0 0 0 3.41-3.41 3.41 3.41 0 0 0-3.41-3.41zm2.027 7.866a4.908 4.908 0 0 1-2.915.358 11.1 11.1 0 0 0 7.991 6.698 11.234 11.234 0 0 0 2.422.249 4.879 4.879 0 0 1-.999-2.85 8.484 8.484 0 0 1-.836-.136 8.304 8.304 0 0 1-5.663-4.32zm11.405.928a3.41 3.41 0 0 0-3.41 3.41 3.41 3.41 0 0 0 3.41 3.41 3.41 3.41 0 0 0 3.41-3.41 3.41 3.41 0 0 0-3.41-3.41z"/>
+        </g>
       `;
       offsetX = 53;
       offsetY = 53;
