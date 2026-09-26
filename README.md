@@ -23,7 +23,8 @@ I am a Software Engineering student passionate about technology, web & mobile de
 
 > Tools, languages, and frameworks that I work with:
 
-<table>
+<div align="center">
+<table align="center">
   <!-- Row 1: Languages & APIs -->
   <tr>
     <td align="center" width="96">
